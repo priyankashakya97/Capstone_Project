@@ -12,4 +12,3 @@ DISCLOSURE_SNIPPETS = [
     "doc_06: A recent regulatory notice has been received regarding data-localization "
     "compliance; the company is in active dialogue with the regulator.",
 ]
-

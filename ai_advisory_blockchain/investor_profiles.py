@@ -5,4 +5,3 @@ INVESTOR_PROFILES = [
     {"investor_id": "INV04", "risk_tolerance": "Moderate", "horizon_years": 5, "investment_amount_inr": 800000},
     {"investor_id": "INV05", "risk_tolerance": "Aggressive", "horizon_years": 2, "investment_amount_inr": 150000},
 ]
-
